@@ -1,3 +1,33 @@
+Вот вариант небольшого README, который можно просто вставить в `README.md` в корне репо:
+
+```markdown
 # tea-tests
-- https://github.com/alexbukreev/tea-tests/blob/main/PLAN_CLIENT.md
-- https://github.com/alexbukreev/tea-tests/blob/main/TECH_PLAN.md
+
+Песочница для проекта **платформы коллективной дегустации чая**.  
+Репозиторий сейчас используется как место для планов и спецификаций будущего MVP.
+
+## Документы
+
+- Пользовательский план (для клиента):  
+  [PLAN_CLIENT.md](https://github.com/alexbukreev/tea-tests/blob/main/PLAN_CLIENT.md)
+
+- Технический план (русский, для разработчиков):  
+  [TECH_PLAN_RU.md](https://github.com/alexbukreev/tea-tests/blob/main/TECH_PLAN_RU.md)
+
+- Технический план (английский, для разработчиков):  
+  [TECH_PLAN.md](https://github.com/alexbukreev/tea-tests/blob/main/TECH_PLAN.md)
+
+## О проекте
+
+Идея MVP:
+
+- запись на дегустацию через Telegram-бота и/или веб;
+- оценка чаёв по параметрам с визуализацией в виде лучевых диаграмм;
+- сохранение данных в БД для последующей аналитики (в том числе через Yandex DataLens);
+- выдача участнику простого отчёта и «профиля чаемана».
+
+## Статус
+
+Сейчас в репозитории только планы и спецификации.  
+Код фронтенда, бэкенда и Docker-конфигурации будет добавляться по мере реализации спринтов.
+```
