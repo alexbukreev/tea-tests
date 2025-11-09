@@ -11,9 +11,6 @@
 - Технический план (русский, для разработчиков):  
   [TECH_PLAN_RU.md](https://github.com/alexbukreev/tea-tests/blob/main/TECH_PLAN_RU.md)
 
-- Технический план (английский, для разработчиков):  
-  [TECH_PLAN.md](https://github.com/alexbukreev/tea-tests/blob/main/TECH_PLAN.md)
-
 ## О проекте
 
 Идея MVP:
